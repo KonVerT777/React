@@ -1,0 +1,26 @@
+.content {
+    height: 100%;
+    background-color: tomato;
+  }
+
+.item {
+  color: darkgreen;
+}
+
+.avatar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.avatar ul {
+  list-style-type: none;
+}
+
+.avatar ul li {
+  margin: 15px 0;
+}
+
+.name {
+  font-weight: bold;
+  margin: 20px 0;
+}
