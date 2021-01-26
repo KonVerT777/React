@@ -1,0 +1,21 @@
+.header {
+    background-color: #96ceb4;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header p {
+    text-transform: capitalize;
+    color: orangered;
+}
+
+.header a {
+    text-decoration: none;
+    color: teal;
+    text-transform: initial;
+}
