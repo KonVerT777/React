@@ -1,0 +1,25 @@
+.content {
+    height: 100%;
+  }
+
+.avatar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.avatar ul {
+  list-style-type: none;
+}
+
+.avatar ul li {
+  margin: 15px 0;
+}
+
+.name {
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.avatar img {
+  width: 200px;
+}

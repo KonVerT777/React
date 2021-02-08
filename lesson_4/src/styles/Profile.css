@@ -1,0 +1,22 @@
+.content {
+    grid-area: c;
+    background-color: tomato;
+  }
+
+.item {
+  color: darkgreen;
+}
+
+.avatar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.avatar ul {
+  list-style-type: none;
+}
+
+.name {
+  font-weight: bold;
+  margin: 20px 0;
+}
