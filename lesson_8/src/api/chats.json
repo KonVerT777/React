@@ -1,0 +1,25 @@
+{
+    "1": {
+        "name": "Chat 1",
+        "messages": [
+            {"message": "message 0", "author": "robot", "id": 0},
+            {"message": "message 1", "author": "robot", "id": 1},
+            {"message": "message 5", "author": "robot", "id": 5}
+        ]
+    },
+    "2": {
+        "name": "Chat 2",
+        "messages": [
+            {"message": "message 2", "author": "robot", "id": 2},
+            {"message": "message 3", "author": "robot", "id": 3},
+            {"message": "message 4", "author": "robot", "id": 4}
+        ]
+    },
+    "3": {
+        "name": "Chat 3",
+        "messages": [
+            {"message": "message 6", "author": "robot", "id": 6},
+            {"message": "message 7", "author": "robot", "id": 7}
+        ]
+    }
+}
